@@ -1,0 +1,7 @@
+{
+  "name": "Beyond Color",
+  "description": "A mobile museum guide app designed to support color-blind and color-vision-deficient visitors in digital art exhibitions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
